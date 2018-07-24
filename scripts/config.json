@@ -1,0 +1,11 @@
+{
+    "local": {
+        "url": "http://localhost",
+        "port": 8080
+    },
+    "remote": {
+        "url": "https://interactive.guim.co.uk",
+        "path": "atoms/2018/07/black-power-video",
+        "bucket": "gdn-cdn"
+    }
+}

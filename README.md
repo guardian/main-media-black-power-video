@@ -1,1 +1,1 @@
-# main-media-black-power-video
+# detroit-main
